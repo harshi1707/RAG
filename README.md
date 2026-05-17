@@ -110,7 +110,9 @@ Create a `.env` file in the project root directory.
 ```env id="f7d1qh"
 GROQ_API_KEY=your_groq_api_key
 ```
+Get your Groq API key from:
 
+https://console.groq.com/keys
 ---
 
 # Run the Application

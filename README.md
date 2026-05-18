@@ -54,7 +54,7 @@ AI-PDF-Assistant/
 ```bash id="t8v4zy"
 git clone https://github.com/harshi1707/RAG.git
 
-cd AI-PDF-Assistant
+
 ```
 
 ---

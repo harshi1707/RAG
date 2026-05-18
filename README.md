@@ -52,7 +52,7 @@ AI-PDF-Assistant/
 ## Clone Repository
 
 ```bash id="t8v4zy"
-git clone https://github.com/your-username/AI-PDF-Assistant.git
+git clone https://github.com/harshi1707/RAG.git
 
 cd AI-PDF-Assistant
 ```
